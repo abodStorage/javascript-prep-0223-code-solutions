@@ -5,8 +5,9 @@
 After completing this exercise, you should be able to discuss or answer the following questions:
 
 - What data types can object properties hold?
-
+- ANSWER : Numeric, characters, and booleans.
 - Describe the syntax (structure) of object-literals in JavaScript.
+- ANSWER : Similar as variable, declare variable and use curly-bracket open and close object property. Single property will be assigned value using colon and comma for property delimeter.
 
 ## Notes
 
